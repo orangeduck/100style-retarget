@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/f4ee95bc-ec56-47dd-9882-309f6dab0ee8
 
 
 
-100style retarget
+100STYLE retarget
 =================
 
 This is version of the [100STYLE dataset](https://www.ianxmason.com/100style/) exported in both fbx and bvh format with a different skinned character applied.
