@@ -16,7 +16,7 @@ For an example raylib application that can visualize this data on a skinned char
 Known Problems
 ==============
 
-All animations in this dataset are missing finger and toe motion.
+All animations in this dataset are missing finger motion.
 
 
 Download
