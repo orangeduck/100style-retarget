@@ -1,4 +1,10 @@
-100style retarget
+
+
+https://github.com/user-attachments/assets/f4ee95bc-ec56-47dd-9882-309f6dab0ee8
+
+
+
+100STYLE retarget
 =================
 
 This is version of the [100STYLE dataset](https://www.ianxmason.com/100style/) exported in both fbx and bvh format with a different skinned character applied.
@@ -16,7 +22,7 @@ For an example raylib application that can visualize this data on a skinned char
 Known Problems
 ==============
 
-All animations in this dataset are missing finger and toe motion.
+All animations in this dataset are missing finger motion.
 
 
 Download
